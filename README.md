@@ -1,5 +1,5 @@
 ## EXPERIMENT NO. : 02
-## DATE : 23.03.2024
+## DATE : 09.03.2024
 
 # RANK-OF-A-MATRIX
 ## Aim:
